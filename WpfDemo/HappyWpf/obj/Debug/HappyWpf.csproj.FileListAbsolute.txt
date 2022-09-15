@@ -1,0 +1,15 @@
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\bin\Debug\HappyWpf.exe.config
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\bin\Debug\HappyWpf.exe
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\bin\Debug\HappyWpf.pdb
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\HappyWpf.csprojAssemblyReference.cache
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\App.g.cs
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\HappyWpf_MarkupCompile.cache
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\HappyWpf_MarkupCompile.lref
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\MainWindow.baml
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\HappyWpf.g.resources
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\HappyWpf.Properties.Resources.resources
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\HappyWpf.csproj.GenerateResource.cache
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\HappyWpf.csproj.CoreCompileInputs.cache
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\HappyWpf.exe
+C:\Users\Jamal\source\repos\WpfDemo\HappyWpf\obj\Debug\HappyWpf.pdb
